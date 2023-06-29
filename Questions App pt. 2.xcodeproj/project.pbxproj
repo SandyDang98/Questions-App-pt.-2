@@ -12,6 +12,8 @@
 		BD2DA0DF2A4626BC00A327F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD2DA0DE2A4626BC00A327F5 /* Assets.xcassets */; };
 		BD2DA0E22A4626BC00A327F5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD2DA0E12A4626BC00A327F5 /* Preview Assets.xcassets */; };
 		BD2DA0EB2A462FD500A327F5 /* situation1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD2DA0EA2A462FD500A327F5 /* situation1.swift */; };
+		BD47D2302A4DD1B600BE5564 /* situation2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD47D22F2A4DD1B600BE5564 /* situation2.swift */; };
+		BD57047B2A4DD7C20086E477 /* situation3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD57047A2A4DD7C20086E477 /* situation3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		BD2DA0DE2A4626BC00A327F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD2DA0E12A4626BC00A327F5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BD2DA0EA2A462FD500A327F5 /* situation1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = situation1.swift; sourceTree = "<group>"; };
+		BD47D22F2A4DD1B600BE5564 /* situation2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = situation2.swift; sourceTree = "<group>"; };
+		BD57047A2A4DD7C20086E477 /* situation3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = situation3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +41,8 @@
 		BD2DA0CE2A4626BA00A327F5 = {
 			isa = PBXGroup;
 			children = (
+				BD47D22F2A4DD1B600BE5564 /* situation2.swift */,
+				BD57047A2A4DD7C20086E477 /* situation3.swift */,
 				BD2DA0D92A4626BA00A327F5 /* Questions App pt. 2 */,
 				BD2DA0D82A4626BA00A327F5 /* Products */,
 			);
@@ -141,7 +147,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD2DA0EB2A462FD500A327F5 /* situation1.swift in Sources */,
+				BD47D2302A4DD1B600BE5564 /* situation2.swift in Sources */,
 				BD2DA0DD2A4626BA00A327F5 /* ContentView.swift in Sources */,
+				BD57047B2A4DD7C20086E477 /* situation3.swift in Sources */,
 				BD2DA0DB2A4626BA00A327F5 /* Questions_App_pt__2App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
